@@ -1,0 +1,16 @@
+/* colors */
+
+* {
+  al:   #00000000;
+  //fondo
+  bg:   #212B30;
+  //elemento seleccionado
+  bga:  #6D8895;
+  //texto -dmenu
+  bar:  #212B30;
+  //texto
+  fg:  #C4C7C5;
+  //fg:   #FFFFFFFF;
+  //fondo -dmenu
+  ac:   #C4C7C5;
+}
